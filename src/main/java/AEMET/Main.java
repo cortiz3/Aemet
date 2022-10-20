@@ -7,7 +7,7 @@ import AEMET.model.logica.Controlador;
 
 /**
  *
- * @author horabaixa
+ * @author cortiz3
  */
 public class Main {
 

@@ -14,7 +14,7 @@ import java.util.Date;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 
    //Clase Integración para coger los datos desde la API y vincularlos en nuestras clases para después llamarlos desde el Controlador.

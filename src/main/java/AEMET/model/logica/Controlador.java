@@ -15,7 +15,7 @@ import java.util.Date;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 
 // Clase Controlador que coge métodos del CRUD llamados a la integración para insertar los datos.

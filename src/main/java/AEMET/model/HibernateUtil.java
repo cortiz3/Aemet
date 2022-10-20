@@ -6,7 +6,7 @@ import org.hibernate.service.ServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  * 
  * Clase para abrir sessión con hibernate.
  */

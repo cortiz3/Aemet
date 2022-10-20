@@ -17,7 +17,7 @@ import javax.validation.constraints.Size;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 @Embeddable
 public class EstMeteorologiaPK implements Serializable {

@@ -14,7 +14,7 @@ import org.hibernate.Session;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 public class Test {
     public static void main(String[] args) {

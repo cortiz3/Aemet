@@ -11,7 +11,7 @@ import org.hibernate.SessionFactory;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 public class ProvinciaCRUD {
 

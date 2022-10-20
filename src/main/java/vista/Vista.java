@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 public class Vista extends javax.swing.JFrame {
 

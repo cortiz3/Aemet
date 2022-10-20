@@ -26,7 +26,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 @Entity
 @Table(name = "ESTACION")

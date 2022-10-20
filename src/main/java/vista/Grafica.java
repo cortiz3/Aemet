@@ -16,7 +16,7 @@ import org.jfree.data.time.TimeSeriesCollection;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 public class Grafica extends JFrame {
 

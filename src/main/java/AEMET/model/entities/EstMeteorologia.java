@@ -23,7 +23,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author Cintia Ortiz
+ * @author cortiz3
  */
 @Entity
 @Table(name = "EST_METEOROLOGIA")
